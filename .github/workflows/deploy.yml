@@ -22,6 +22,8 @@ jobs:
 
       - name: Build React app
         run: yarn build
+        env:
+          PUBLIC_URL: /interface
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
