@@ -38,7 +38,8 @@ const config: MenuEntry[] = [
         href: '/chad',
       },
       {
-        label: 'Create',
+        label: '🤖 Agent Launchpad',
+        href: '/agent-launch',
         href: '/create',
       },
     ],
