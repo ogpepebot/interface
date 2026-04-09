@@ -7,7 +7,31 @@ const config = [
     description: [
       {
         id: 999,
-        fallback: 'The PepeX Launchpad supports the fair and equitable launch of meme-themed tokens. Integrated with our DEX, it simplifies the launch process by automating liquidity locking and token burns, reducing the need for extensive post-launch verification.',
+        fallback: 'The PepeX Launchpad supports the fair and equitable launch of meme-themed tokens and AI agents. Integrated with our DEX, it simplifies the launch process by automating liquidity locking and token burns.',
+      },
+    ],
+  },
+  {
+    title: {
+      id: 999,
+      fallback: '🚀 Launch Your AI Agent',
+    },
+    description: [
+      {
+        id: 999,
+        fallback: 'Tokenize your AI agent and launch it on PepeX! Create tradable tokens representing autonomous trading bots, meme generators, and more. The community can invest in and benefit from your AI.',
+      },
+    ],
+  },
+  {
+    title: {
+      id: 999,
+      fallback: 'How to Launch Your AI Agent',
+    },
+    description: [
+      {
+        id: 999,
+        fallback: '1. Prepare your AI agent code. 2. Define tokenomics. 3. Submit via GitHub. 4. We help integrate. 5. Launch & trade!',
       },
     ],
   },
@@ -19,7 +43,7 @@ const config = [
     description: [
       {
         id: 999,
-        fallback: 'The Launchpad reduces barriers for new projects, offers discounted listing fees, and enhances security through pre-audited token creation. This creates a trustworthy environment for both project creators and investors.',
+        fallback: 'The Launchpad reduces barriers for new projects, offers discounted listing fees, and enhances security through pre-audited token creation.',
       },
     ],
   },
@@ -31,16 +55,15 @@ const config = [
     description: [
       {
         id: 999,
-        fallback: 'To launch your token, submit an application through our github, input your project details, and follow our guided process for token creation and initial distribution. Our team supports you at every step to ensure a successful launch.',
+        fallback: 'Submit an application through GitHub, input your project details, and follow our guided process for token creation and initial distribution.',
       },
     ],
   },
-  {
-    title: { id: 999, fallback: 'How can I contact the PepeX support team?' },
+  { title: { id: 999, fallback: 'How can I contact the PepeX support team?' },
     description: [
       {
         id: 999,
-        fallback: 'For any inquiries or support requests, you can reach out to the PepeX team through their official channels, such as their website, Telegram group, or social media accounts. They will be happy to assist you.',
+        fallback: 'Reach out through our Telegram group or social media. We will be happy to assist you!',
       },
     ],
   },
