@@ -235,7 +235,7 @@ export default function AgentLaunchPage() {
         <Card>
           <CardTitle>🎓 Graduation</CardTitle>
           <CardText>
-            When ready, agents "graduate" from the curve. LP is burned permanently. 
+            When ready, agents graduate from the curve. LP is burned permanently. 
             A small fee buys and burns PEPE in the same transaction.
           </CardText>
         </Card>
