@@ -1,0 +1,34 @@
+{
+  "files": {
+    "static/js/0.7a9c1ef1.chunk.js": "/interface/static/js/0.7a9c1ef1.chunk.js",
+    "static/js/0.7a9c1ef1.chunk.js.map": "/interface/static/js/0.7a9c1ef1.chunk.js.map",
+    "main.js": "/interface/static/js/main.22c25d3f.chunk.js",
+    "main.js.map": "/interface/static/js/main.22c25d3f.chunk.js.map",
+    "runtime-main.js": "/interface/static/js/runtime-main.02c0040e.js",
+    "runtime-main.js.map": "/interface/static/js/runtime-main.02c0040e.js.map",
+    "static/css/3.a6123f16.chunk.css": "/interface/static/css/3.a6123f16.chunk.css",
+    "static/js/3.237fce10.chunk.js": "/interface/static/js/3.237fce10.chunk.js",
+    "static/js/3.237fce10.chunk.js.map": "/interface/static/js/3.237fce10.chunk.js.map",
+    "static/js/4.94fa8490.chunk.js": "/interface/static/js/4.94fa8490.chunk.js",
+    "static/js/4.94fa8490.chunk.js.map": "/interface/static/js/4.94fa8490.chunk.js.map",
+    "static/js/5.5f5156a9.chunk.js": "/interface/static/js/5.5f5156a9.chunk.js",
+    "static/js/5.5f5156a9.chunk.js.map": "/interface/static/js/5.5f5156a9.chunk.js.map",
+    "static/js/6.ae3b3541.chunk.js": "/interface/static/js/6.ae3b3541.chunk.js",
+    "static/js/6.ae3b3541.chunk.js.map": "/interface/static/js/6.ae3b3541.chunk.js.map",
+    "static/js/7.c54c3301.chunk.js": "/interface/static/js/7.c54c3301.chunk.js",
+    "static/js/7.c54c3301.chunk.js.map": "/interface/static/js/7.c54c3301.chunk.js.map",
+    "index.html": "/interface/index.html",
+    "static/css/3.a6123f16.chunk.css.map": "/interface/static/css/3.a6123f16.chunk.css.map",
+    "static/js/0.7a9c1ef1.chunk.js.LICENSE.txt": "/interface/static/js/0.7a9c1ef1.chunk.js.LICENSE.txt",
+    "static/js/3.237fce10.chunk.js.LICENSE.txt": "/interface/static/js/3.237fce10.chunk.js.LICENSE.txt",
+    "static/js/4.94fa8490.chunk.js.LICENSE.txt": "/interface/static/js/4.94fa8490.chunk.js.LICENSE.txt",
+    "static/js/5.5f5156a9.chunk.js.LICENSE.txt": "/interface/static/js/5.5f5156a9.chunk.js.LICENSE.txt",
+    "static/media/inter.css": "/interface/static/media/Inter.var.a738a131.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02c0040e.js",
+    "static/css/3.a6123f16.chunk.css",
+    "static/js/3.237fce10.chunk.js",
+    "static/js/main.22c25d3f.chunk.js"
+  ]
+}
