@@ -38,7 +38,7 @@ const config: MenuEntry[] = [
         href: '/chad',
       },
       {
-        label: 'Create (Coming Soon)',
+        label: 'Create',
         href: '/create',
       },
     ],

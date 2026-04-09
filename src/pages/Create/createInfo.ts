@@ -2,7 +2,7 @@ const config = [
   {
     title: {
       id: 999,
-      fallback: 'Introducing the PepeX Launchpad (Coming Soon)',
+      fallback: 'Introducing the PepeX Launchpad',
     },
     description: [
       {
